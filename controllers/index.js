@@ -1,5 +1,4 @@
-import initRelation from './relation'
-
+import initInfo from './fetch'
 export default router => {
-  initRelation(router)
+  initInfo(router)
 }

@@ -1,4 +1,4 @@
-import * as relation from './relation'
+import * as fetch from './fetch'
 export {
-  relation
+  fetch,
 }
