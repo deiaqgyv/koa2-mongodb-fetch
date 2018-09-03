@@ -5,10 +5,14 @@
 - 服务器： koa2, babel, monk
 - 爬虫： nightmare, jquery
 
+## 首次使用
+
+在`./utils/config.js`把配置换成自己的
+
 ## 启动服务器
 
-```npm start``` 
+`npm start`
 
 or
 
- ```node index```
+ `node index`
